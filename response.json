@@ -1,0 +1,109 @@
+{    
+    "body": [
+      {
+        "property_id": "9634249056",
+        "is_new_construction": false,
+        "listing_id": "2926265038",
+        "prop_type": "single_family",
+        "last_update": "2021-02-22T20:08:00Z",
+        "rdc_web_url": "https://www.realtor.com/realestateandhomes-detail/975-Moriah-Rd_London_KY_40741_M96342-49056",
+        "is_turbo": false,
+        "address": "975 Moriah Rd, London, 40741",
+        "address_new": {
+          "city": "London",
+          "line": "975 Moriah Rd",
+          "postal_code": "40741",
+          "state_code": "KY",
+          "state": "Kentucky",
+          "county": "Laurel",
+          "fips_code": "21125",
+          "lat": 37.178486,
+          "lon": -84.182037
+        },
+        "prop_status": "for_sale",
+        "price_raw": 229000,
+        "sqft_raw": 1900,
+        "list_date": "2021-02-22T20:54:11Z",
+        "advertiser_id": 690792,
+        "office_name": "Watkins Realty & Associates",
+        "office_advertiser_id": 2138443,
+        "broker_advertiser_id": 3656059,
+        "products": [
+          "core.agent",
+          "core.broker",
+          "co_broke"
+        ],
+        "is_showcase": false,
+        "price": "$229,000",
+        "beds": 3,
+        "baths": 0,
+        "sqft": "1,900 sq ft",
+        "lot_size": "0.46 acres",
+        "mls": {
+          "name": "Lexington",
+          "id": "20103031",
+          "plan_id": null,
+          "abbreviation": "LBKY",
+          "type": "mls"
+        },
+        "data_source_name": "mls",
+        "photo": "https://ap.rdcpix.com/bd399b94137b77310d921b2d9c1409fbl-m2056033265x.jpg",
+        "is_cobroker": true,
+        "short_price": "$229K",
+        "photo_count": 64,
+        "lat": 37.178486,
+        "lon": -84.182037,
+        "is_new_listing": true,
+        "has_leadform": true,
+        "page_no": 1,
+        "rank": 1,
+        "list_tracking": "type|property|data|prop_id|9634249056|list_id|2926265038|page|rank|list_branding|listing_agent|listing_office|data_source|mls|advertiser_id|agent|office|broker|property_status|product_code|advantage_code^1|1|0|1|ET0O|19U17|26D17|35T|G|5^^$0|1|2|$3|4|5|6|7|L|8|M|9|$A|N|B|O]|C|D|E|$F|P|G|Q|H|R]|I|S|J|T|K|U]]",
+        "suppression_flags": [
+          "suppress_foreclosure"
+        ],
+        "lead_forms": [
+          {
+            "type": "classic",
+            "lead_type": "co_broke",
+            "form": {
+              "name": {
+                "required": true,
+                "minimum_character_count": 1
+              },
+              "email": {
+                "required": true,
+                "minimum_character_count": 5
+              },
+              "phone": {
+                "required": true,
+                "minimum_character_count": 10,
+                "maximum_character_count": 11
+              },
+              "message": {
+                "required": false,
+                "minimum_character_count": 0
+              },
+              "agents": [
+                {
+                  "advertiser_id": 690792,
+                  "has_ratings": false,
+                  "is_listing_agent": true
+                }
+              ],
+              "show": true
+            },
+            "is_lcm_enabled": false,
+            "show_text_leads": true,
+            "cashback_enabled": true,
+            "flip_the_market_enabled": true,
+            "local_phone": "(606)405-5766",
+            "local_phones": {
+              "comm_console_mweb": "(606)405-5766"
+            }
+          }
+        ]
+      }
+    ]
+  }
+  
+  
