@@ -13,11 +13,14 @@ Step 3: Run http://localhost:8080/search/getbyaddress?city=london&statecode=KY&p
 Note: At the moment the API gives all the fields which realtor returns for more study. We can always filter and give only required fields and customized JSON.
 
 # Example #
+
+API is deployed to Heroku. Below is the API link to test.
+
 #### Request:
 
 HTTP Method : [Get]
 
-Url: http://localhost:8080/search/getbyaddress?city=london&statecode=KY&postalcode=40741
+Live URL: https://mainstreet-poc.herokuapp.com/search/getbyaddress?city=london&statecode=KY&postalcode=40741
 
 #### Response:
 
